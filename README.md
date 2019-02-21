@@ -39,7 +39,12 @@ Open-source command line tools for accessing Mega.co.nz cloud storage. [Official
 >pkg install megatools
 
 ## 5.NNN
-Tiny, lightning fast, feature-packed file manager. [Github Link](https://github.com/jarun/nnn)
+Tiny, lightning fast, feature-packed file manager.
+
+Features 
+Intuitive navigation through the file-system
+
+Useful nifty shortcuts and key-bindings. [Github Link](https://github.com/jarun/nnn)
 
 >pkg install nnn
 
